@@ -1,0 +1,16 @@
+body {
+  background-image: url('../img/background.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+.wrapper{
+   width: 350px; padding: 20px;
+   float: right;
+   margin-right: 100px;
+   margin-top: 70px;
+ }
+ #logo-img {
+     margin-right:25px;
+ }
