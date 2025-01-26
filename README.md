@@ -84,14 +84,6 @@ Contributions are welcome! If you'd like to contribute:
 3. Commit your changes.
 4. Submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-For any inquiries or feedback, feel free to reach out:
-- Email: support@gadgetsonwheels.com
-- GitHub: [your-username](https://github.com/your-username)
-
 ---
 Thank you for using **Gadgets on Wheels**!
 
